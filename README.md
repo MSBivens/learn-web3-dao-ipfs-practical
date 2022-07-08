@@ -2,7 +2,7 @@
 
 Created as part of the [Learn Web3 DAO](https://www.learnweb3.io/) Junior Tack.
 
-This code was written for Level 7: Etherscan Verification
+This code was written for Level 7: IPFS Practical
 
 Public tutorial not available at the time of this writing.
 
